@@ -3,7 +3,7 @@
     Properties
     {
         _Color ("Color", Color) = (1,1,1,1)
-        _MainTex ("Albedo (RGB)", 2D) = "white" {}
+        _MainTex ("AlphaMap (RGB)", 2D) = "white" {}
         _SubTex1 ("Albedo1 (RGB)", 2D) = "white" {}
         _SubTex2 ("Albedo2 (RGB)", 2D) = "white" {}
         _Glossiness ("Smoothness", Range(0,1)) = 0.5
