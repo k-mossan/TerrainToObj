@@ -27,8 +27,8 @@ https://mattgadient.com/unity3d-a-free-script-to-convert-a-splatmap-to-a-png/
 
 #### TerrainからAlphaMapのExport
 ヒエラルキー上のGameObjectにアタッチされているTestスクリプトのTerrainDataに  
-Exportを行いたいTerrainアセットを割り当てます。
-Playボタンを押下します。
+Exportを行いたいTerrainアセットを割り当てます。  
+Playボタンを押下します。  
 Application.persistentDataPathにtestdata.pngが出力されます。
 
 #### objに割り当てるマテリアルについて
